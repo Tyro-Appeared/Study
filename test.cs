@@ -10,5 +10,3 @@ second commit 5
 second commit 6
 
 third commit 7
-third commit 8
-third commit 9
